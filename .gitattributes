@@ -2,4 +2,6 @@
 * text=auto
 *.html linguist-detectable=false
 *.TEX linguist-detectable=false
+*.toc linguist-detectable=false
+*.txt linguist-detectable=false
 *.py linguist-detectable=true
